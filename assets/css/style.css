@@ -1,5 +1,5 @@
 div {
-  display: inline;
+  display: inline-block;
   width: 200px;
   font-family: "Century Gothic";
   font-weight: bolder;
