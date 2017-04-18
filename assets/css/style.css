@@ -1,9 +1,20 @@
-.box {
-  display: block;
-  width: 100px;
-  height: 100px;
-  background-color: gray;
-  padding: 10px;
-  margin: 10px;
+div {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+    background-color: darkgrey;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
 
+.papa {
+    position: relative;
+    display: block;
+    width: 40%;
+    height: 150px;
+}
+
+.ultimo {
+    display: block;
 }
