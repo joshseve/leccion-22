@@ -1,14 +1,9 @@
-div {
-  display: inline-block;
-  width: 200px;
-  font-family: "Century Gothic";
-  font-weight: bolder;
-  font-size: 20px;
- 	height: 70px;
-  margin: 5px;
- 	background-color: #F7b617;
-}
+.box {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  padding: 10px;
+  margin: 10px;
 
-.media {
- 	background-color: #FA5C9C;
 }
