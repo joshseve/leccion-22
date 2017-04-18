@@ -1,11 +1,11 @@
 div {
-  display: block;
+  display: inline;
   width: 200px;
   font-family: "Century Gothic";
   font-weight: bolder;
   font-size: 20px;
  	height: 70px;
-  margin: 15px;
+  margin: 5px;
  	background-color: #F7b617;
 }
 
